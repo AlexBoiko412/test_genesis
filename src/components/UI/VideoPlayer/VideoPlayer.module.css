@@ -1,0 +1,12 @@
+.videoPlayerBig {
+    max-width: 100%;
+    width: 100%;
+    height: calc((100vw - 96px)*9/16);
+    max-height: 96vh;
+}
+
+.videoPlayerSmall {
+    height: 170px;
+    max-width: 100%;
+    width: 100%;
+}

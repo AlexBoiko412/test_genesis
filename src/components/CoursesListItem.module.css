@@ -1,0 +1,30 @@
+
+.courseMeta {
+    padding-bottom: 20px;
+}
+
+.courseTitle {
+    margin-bottom: 20px;
+    color: #001529;
+}
+
+.skills {
+    list-style-type: disc;
+    margin-left: 20px;
+    color: #001529;
+}
+
+.downMark {
+    position: absolute;
+    bottom: 10px;
+    font-size: 10px;
+    text-decoration: underline;
+}
+
+
+
+@media screen and (max-width: 360px) {
+    .card {
+        max-width: 250px;
+    }
+}
